@@ -1,2 +1,2 @@
 # EXCEL_ADMON_SYST
-System to record, validate and report administrative payments
+Prototipe of system to record, validate and report administrative payments of an office.
